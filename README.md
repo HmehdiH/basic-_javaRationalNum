@@ -1,8 +1,8 @@
 # Pi.java
 
-    - This class counts the PI until the decimalCount = 70.
+- This class counts the PI until the decimalCount = 70.
     
-    - this class uses the RatNum.java, and
+    - it uses the RatNum.java, and
     - it uses the Spigot algorithm for counting the PI :https://en.wikipedia.org/wiki/Pi#Spigot_algorithms
 
     ```java 
